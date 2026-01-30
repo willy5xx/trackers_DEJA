@@ -35,7 +35,7 @@ classifiers = [
 keywords = ["tracking", "mot", "sort", "bytetrack", "machine-learning", "deep-learning", "vision", "ML", "DL", "AI", "DETR", "YOLO", "Roboflow"]
 
 dependencies = [
-    "numpy>=2.0.2",
+    "numpy>=1.26.4",
     "supervision>=0.26.1",
     "scipy>=1.13.1",
 ]
